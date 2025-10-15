@@ -10,6 +10,8 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.2/ref/settings/
 """
 
+
+"Aayush's Note: This file was modified to allow deployment on AWS EC2 instance."
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
